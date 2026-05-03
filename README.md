@@ -6,7 +6,8 @@ Software engineer with 14+ years building production systems, currently re-enter
 
 ## What I'm building now
 
-Process improvement case studies and a write-up of my *Career OS*, a personal example of AI-augmented systems design.
+- Process improvement case studies.
+- A write-up of my *Career OS*, a living example of AI-augmented systems design for knowledge management that makes full use of context primitives for effectiveness and token efficiency. It also features skills for vault-wide architecture design and automated reviews that enable adding new AI-assisted features.
 
 ## Defining efforts
 
